@@ -1,0 +1,1 @@
+This is Bernardo CrackHead's first git project!
